@@ -145,7 +145,7 @@ Opportunity = Importance + Max(Importance - Satisfaction, 0)
 ├── 📂 results/
 │   └── lda_visualization/              # pyLDAvis HTML 파일
 └── 📂 docs/
-    └── presentation_summary.pdf        # 발표자료 요약
+    └── presentation_summary.pdf        # 발표자료 
 ```
 
 ---
