@@ -143,9 +143,6 @@ Opportunity = Importance + Max(Importance - Satisfaction, 0)
 │   ├── 06_cam_analysis.ipynb           # 감성분석 + CAM + Opportunity
 │   └── 07_dendrogram.ipynb             # 클러스터 구조 시각화
 ├── 📂 results/
-│   ├── cam_opportunity_chart.png       # Opportunity Area 산점도
-│   ├── clustering_comparison.png       # 클러스터링 방법별 성능 비교
-│   ├── dendrogram.png                  # 블록 덴드로그램
 │   └── lda_visualization/              # pyLDAvis HTML 파일
 └── 📂 docs/
     └── presentation_summary.pdf        # 발표자료 요약
