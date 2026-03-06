@@ -124,7 +124,7 @@ Opportunity = Importance + Max(Importance - Satisfaction, 0)
 
 **제품 컨셉**: **[KI:UM] 모듈형 스마트 IoT HOME**
 - LG ThinQ 연동, 모듈형 커스터마이징, 건강 데이터 통합 관리
-- 기대 효과(가정 기반 추정치): 양육비 약 35% 감소, 양육 만족도 13.6% 증가
+- 기대 효과(내부 발표용 추정치): 양육비 약 35% 감소, 양육 만족도 13.6% 증가
 
 ---
 
